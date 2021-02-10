@@ -1,0 +1,139 @@
+body{
+    background-color: rgb(87, 85, 85);
+}
+.heading{
+    background-color: rgb(53, 52, 52) ;
+    font-family:cursive;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+.head{
+    font-size: 35px;
+    font-weight: 800;
+}
+.inputtext{
+    width:350px;
+    height: 30px;
+    border-radius: 30px;
+    background-color: rgb(150, 146, 146);
+    font-size: 25px;
+    color: whitesmoke;
+    outline: none;
+    
+}
+.table1{
+    width: 700px;
+    height:170px;
+    border: 2px solid rgb(5, 205, 212);
+    border-radius: 40px;
+    background-color:   rgb(5, 205, 212);
+    margin-left: 0%;
+    margin-top: 10%;
+    color: whitesmoke;
+    font-size: 25px;
+    align-items: center;   
+}
+.image1{
+    margin-top: 20%;
+    margin-left:90%;
+    height: 200px;
+    
+}
+.image2{
+    margin-top: 30%;
+    margin-left:80%;
+    height: 210px;
+    
+}
+.table2{
+    width: 700px;
+    height:170px;
+    border-radius: 40px;
+    border: 2px solid rgb(235, 192, 2);
+    background-color:rgb(255, 192, 2) ;
+    margin-left: 46%;
+    margin-top: 10%;
+    color: whitesmoke;
+    font-size: 25px;
+    align-items: center;
+}
+.table3{
+    width: 700px;
+    height:170px;
+    border-radius: 40px;
+    border: 2px solid rgb(212, 103, 140);
+    background-color:rgb(212, 103, 140) ;
+    margin-left: 0%;
+    margin-top: 10%;
+    color: whitesmoke;
+    font-size: 25px;
+    align-items: center;
+}
+.image3{
+    margin-top: 40%;
+    margin-left:95%;
+    height: 200px;
+    
+}
+.image4{
+    margin-top: 30%;
+    margin-left:80%;
+    height: 210px;
+    
+}
+.table4{
+    width: 700px;
+    height:170px;
+    border-radius: 40px;
+    border: 6px solid rgb(119, 192, 129);
+    background-color:rgb(119, 192, 129) ;
+    margin-left: 46%;
+    margin-top: 10%;
+    color: whitesmoke;
+    font-size: 25px;
+    align-items: center;
+}
+.table5{
+    width: 700px;
+    height:170px;
+    border-radius: 40px;
+    border: 2px solid rgb(223, 98, 98);
+    background-color:rgb(223, 98, 98) ;
+    margin-left: 0%;
+    margin-top: 10%;
+    color: whitesmoke;
+    font-size: 25px;
+    align-items: center;
+}
+.image5{
+    margin-top: 40%;
+    margin-left:80%;
+    height: 220px;
+    
+}
+.submit{
+    text-align: center;
+    font-size: 40px;
+    background-color: rgb(132, 138, 218);
+    color: whitesmoke;
+    border-radius: 40px;
+    margin-top: 3%;
+    margin-left: 47%;
+    margin-bottom: 3%;
+}
+.submit:hover{
+    background-color: rgb(179, 180, 214);
+    color: rgb(17, 17, 17);
+}
+#submitButton{
+    text-decoration: none;
+}
+.footer{
+    background-color: rgb(53, 52, 52) ;
+    height:50px;
+    text-align: center;
+    color: whitesmoke;
+    font-size: 30px;
+    font-family: cursive;
+}
